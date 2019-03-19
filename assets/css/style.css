@@ -1,0 +1,74 @@
+body{
+    background-image: url(../images/simplecutebackgrounds.jpg);
+    
+}
+
+h1{
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Margarine', cursive;
+}
+
+
+.container {
+	opacity: 1;
+	margin-left: 35px;
+}
+
+button {
+    font-family: 'Ubuntu', sans-serif;
+    margin: 5px;
+    background-color: rgb(175, 93, 243);
+    color: black;
+    font-size: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-color: #7e2868;
+    border-radius: 5px;
+}
+
+#animal-input-box {
+	float: right;
+	padding-right: 10%;
+}
+
+#animal-input {
+	font-size: 25px;
+    font-weight: bolder;
+    float: right;
+}
+
+#add-animal {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 20px;
+	padding: 5px 10px 5px 10px;
+	margin-top: 10px;
+	border-radius: 5px;
+	background-color: rgb(175, 93, 243);
+	color: whitesmoke;
+}
+
+
+
+#giphyview {
+	margin-top: 10px;
+	margin-right: 25%;
+}
+
+.animalpictures {
+	float: left;
+	display: inline;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+h2 {
+	margin-top: 5px;
+    margin-bottom: 15px;
+	font-size: 20px;
+	font-weight: bold;
+	color: #46419c;
+}
+
